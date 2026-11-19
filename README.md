@@ -25,7 +25,7 @@ A aplicação permite que o usuário realize cálculos matemáticos diretamente 
 
 Projeto desenvolvido para praticar lógica de programação, manipulação do DOM, eventos JavaScript e estilização de interfaces web.
 
-## 👨‍💻 Autor
+## Autor
 
 Jackson Miguel
 
